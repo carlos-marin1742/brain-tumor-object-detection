@@ -1,0 +1,8 @@
+names:
+- Glioma
+- Meningioma
+- No Tumor
+- Pituitary
+path: /kaggle/input/mri-for-brain-tumor-with-bounding-boxes
+train: Train
+val: Val
